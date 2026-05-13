@@ -114,4 +114,4 @@ to set up your own hosted vault server, you'll need:
 - a private GitHub repo that your vault syncs to
 - a Worker that reads from that repo and exposes the vault tools
 
-the architecture is documented in `/mcps/auny-vault.md`.
+the architecture is documented in [mcps/auny-vault.md](../mcps/auny-vault.md).

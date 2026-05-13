@@ -19,9 +19,9 @@ be re-explained.
 | Beehiiv | newsletter sending, subscriber management, shop |
 | Grok (MCP) | real-time X trend research mid-session |
 
-→ [Claude](/stack/claude.md) · [Obsidian](/stack/obsidian.md) ·
-[Typefully](/stack/typefully.md) · [Beehiiv](/stack/beehiiv.md) ·
-[Grok](/stack/grok.md)
+→ [Claude](../stack/claude.md) · [Obsidian](../stack/obsidian.md) ·
+[Typefully](../stack/typefully.md) · [Beehiiv](../stack/beehiiv.md) ·
+[Grok](../stack/grok.md)
 
 ---
 
@@ -45,7 +45,7 @@ be re-explained.
 - a working manual (what's currently active, what to avoid)
 - a session log (what was posted recently)
 
-template: `/templates/session_log.md`
+template: [templates/session_log.md](../templates/session_log.md)
 
 ---
 
@@ -75,7 +75,7 @@ each other.
 1. identify the topic — usually a workflow or system worth
    documenting in depth
 2. Claude drafts in the technical voice (evidence-forward,
-   specific, no buzzwords) — see `/stack/claude.md`
+   specific, no buzzwords) — see [stack/claude.md](../stack/claude.md)
 3. publish to GitHub, newsletter, or both
 4. X thread version drafted as a companion piece
 

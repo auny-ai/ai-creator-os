@@ -84,7 +84,7 @@ voice before writing anything.
 this means your content is always current, always on-pillar,
 and always yours.
 
-see `/session-protocols/03_content_session.md` for the
+see [session-protocols/03_content_session.md](../session-protocols/03_content_session.md) for the
 full research flow.
 
 ---

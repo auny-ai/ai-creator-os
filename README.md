@@ -106,13 +106,13 @@ git clone https://github.com/auny-ai/ai-creator-os.git
 ```
 
 **step 3 — set up your vault structure**
-copy the folder structure from `/vault-structure/folder-map.md` into your Obsidian vault.
+copy the folder structure from [vault-structure/folder-map.md](./vault-structure/folder-map.md) into your Obsidian vault.
 
 **step 4 — connect Obsidian to Claude via MCP**
-full guide in `/mcp-setup/setup_guide.md`
+full guide in [mcp-setup/setup_guide.md](./mcp-setup/setup_guide.md)
 
 **step 5 — run your first session**
-start with `/session-protocols/01_session_start.md` — this is the file Claude reads first, every time.
+start with [session-protocols/01_session_start.md](./session-protocols/01_session_start.md) — this is the file Claude reads first, every time.
 
 **step 6 — use it. update it.**
 the system only works if you actually use it. update your vault after every session. it gets smarter as you go.

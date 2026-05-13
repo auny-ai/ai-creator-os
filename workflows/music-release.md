@@ -38,7 +38,7 @@ the whole thing runs in under an hour.
 
 describe the emotional register, energy, or theme to Claude.
 Claude writes a structured Suno prompt using the bracket system.
-see `/stack/suno.md` for prompt structure and real examples.
+see [stack/suno.md](../stack/suno.md) for prompt structure and real examples.
 
 one session typically produces 5-10 prompt variations.
 generate all of them, then pick the best 1-3 takes per prompt.

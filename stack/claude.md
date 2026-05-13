@@ -29,9 +29,9 @@ every session.
    across all sessions in that project
 3. write a system prompt that tells Claude who you are, what you're
    building, and how you want it to operate
-   (see `/session-protocols/01_session_start.md` for a template)
+   (see [session-protocols/01_session_start.md](../session-protocols/01_session_start.md) for a template)
 4. connect your Obsidian vault via MCP
-   (see `/mcp-setup/setup_guide.md`)
+   (see [mcp-setup/setup_guide.md](../mcp-setup/setup_guide.md))
 
 ---
 
@@ -59,4 +59,4 @@ a music session looks like this:
    streaming links, ASCAP registration notes
 
 the system prompt that makes all of this work is in
-`/session-protocols/01_session_start.md`
+[session-protocols/01_session_start.md](../session-protocols/01_session_start.md)

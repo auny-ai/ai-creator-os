@@ -26,7 +26,7 @@ access at [x.ai/grok](https://x.ai/grok) or via the X app
 
 **for MCP integration with Claude:**
 the custom Grok MCP in this system was built as a local Node.js
-server. setup guide in `/mcp-setup/setup_guide.md`
+server. setup guide in [mcp-setup/setup_guide.md](../mcp-setup/setup_guide.md)
 
 **for Grok Imagine:**
 available inside the Grok interface — no separate setup needed
@@ -59,4 +59,4 @@ i use Grok Imagine's Agent Mode to produce full music videos
 in a single conversation. the workflow: lyric storyboard →
 scene-by-scene animation prompts → 6-second clips → stitch in
 CapCut. my BLACK and PINK music videos were both built this way.
-full workflow doc in `/workflows/music-video.md`
+full workflow doc in [workflows/music-video.md](../workflows/music-video.md)

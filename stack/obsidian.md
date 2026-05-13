@@ -28,11 +28,11 @@ so nothing has to be re-explained between sessions.
    available on mac, windows, ios, android
 2. create a new vault (this is just a folder on your device)
 3. set up your folder structure
-   (see `/vault-structure/folder-map.md` for a starting point)
+   (see [vault-structure/folder-map.md](../vault-structure/folder-map.md) for a starting point)
 4. write your core files — a content manual, a session protocol,
    a links file. these are what Claude reads first.
 5. connect to Claude via MCP
-   (see `/mcp-setup/setup_guide.md`)
+   (see [mcp-setup/setup_guide.md](../mcp-setup/setup_guide.md))
 6. sync to iCloud or GitHub so your vault stays current across
    devices
 
@@ -60,4 +60,4 @@ when Claude reads these before doing anything, it knows:
 
 the vault also stores every prompt pattern, workflow doc, and
 session output — so the system gets smarter the more i use it.
-the folder structure template is in `/vault-structure/folder-map.md`
+the folder structure template is in [vault-structure/folder-map.md](../vault-structure/folder-map.md)

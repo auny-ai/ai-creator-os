@@ -30,7 +30,7 @@ a full list of available MCP connectors is at
 2. go to Settings → Integrations
 3. connect the tools you want Claude to access
 4. for Obsidian specifically — there's no official MCP yet.
-   use the setup guide in `/mcp-setup/setup_guide.md` to
+   use the setup guide in [mcp-setup/setup_guide.md](../mcp-setup/setup_guide.md) to
    connect your vault via a custom MCP server
 
 ---
@@ -59,4 +59,4 @@ beyond the vault, i have MCP connections for:
 - **Grok** — custom MCP for X-native search and trend research
   without leaving Claude
 
-the setup guide for the vault MCP is in `/mcp-setup/setup_guide.md`
+the setup guide for the vault MCP is in [mcp-setup/setup_guide.md](../mcp-setup/setup_guide.md)

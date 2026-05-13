@@ -76,7 +76,7 @@ filter rule: trending ≠ relevant. only results that map
 to your pillars and your voice make it into the batch.
 
 your pillars define the search — not the other way around.
-see `/content-system/content_pillars.md` to build yours.
+see [content-system/content_pillars.md](../content-system/content_pillars.md) to build yours.
 
 ---
 
@@ -100,7 +100,7 @@ confirm before writing:
   question that can't be answered yes or no
 - format rotation covers a full spread across the day
 
-see `/content-system/formats_reference.md` for the full
+see [content-system/formats_reference.md](../content-system/formats_reference.md) for the full
 format library and what each one optimizes for.
 
 ---

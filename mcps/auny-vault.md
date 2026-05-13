@@ -43,7 +43,7 @@ use this on iPhone or any device without local filesystem access.
 
 ## setup
 
-see `/mcp-setup/setup_guide.md` for full installation steps.
+see [mcp-setup/setup_guide.md](../mcp-setup/setup_guide.md) for full installation steps.
 
 quick version:
 

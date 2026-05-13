@@ -78,7 +78,7 @@ you generate, you pick.
 ## Higgsfield workflow
 
 Higgsfield handles video-forward creative content. see
-`/content-types/video.md` for the full workflow.
+[content-types/video.md](./video.md) for the full workflow.
 
 for static art specifically, Higgsfield's Marketing Studio
 produces strong branded product images — useful when you

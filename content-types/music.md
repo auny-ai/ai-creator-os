@@ -20,8 +20,8 @@ links — autonomously.
 | Claude Cowork | autonomous admin — ASCAP registration, hyperfollow pages |
 | Obsidian | stores prompt patterns, release catalog, streaming links |
 
-→ [Claude](/stack/claude.md) · [Suno](/stack/suno.md) ·
-[DistroKid](/stack/distrokid.md)
+→ [Claude](../stack/claude.md) · [Suno](../stack/suno.md) ·
+[DistroKid](../stack/distrokid.md)
 
 ---
 
@@ -63,7 +63,7 @@ in this system uses a layered bracket structure:
 describe what you want to feel, not just what genre you want.
 Claude translates that into a structured Suno prompt.
 
-prompt examples and structure: see `/stack/suno.md`
+prompt examples and structure: see [stack/suno.md](../stack/suno.md)
 
 ---
 
