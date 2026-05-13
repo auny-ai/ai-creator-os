@@ -5,9 +5,6 @@
 .vscode/
 .idea/
 
-# Sandbox artifacts (stray Claude-environment paths)
-mnt/
-
 # Local env
 .env
 .env.local
