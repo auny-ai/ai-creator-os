@@ -1,3 +1,9 @@
+---
+title: Content Session Protocol
+description: "Step-by-step protocol for a content session that produces a full day of posts, drafted and queued in Typefully via MCP. Skipping steps produces generic output; following them produces content that sounds like you."
+tags: [session-protocol, content-workflow, typefully, claude]
+---
+
 # content session protocol
 
 a content session produces a full day (or multiple days) of
