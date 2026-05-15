@@ -1,3 +1,9 @@
+---
+title: Idea Card Template
+description: "Template for capturing any monetizable idea — product, service, workflow, guide. One file per idea, saved in the vault, linked to a project manager task. Captures context before it fades."
+tags: [template, idea-capture, monetization, vault]
+---
+
 # idea card template
 
 use this template to capture any monetizable idea — a product,
