@@ -1,3 +1,9 @@
+---
+title: Vault Naming Conventions
+description: "The naming rules that make the vault navigable by Claude without manual guidance. When files are named predictably, Claude finds what it needs without being told where to look."
+tags: [vault-structure, naming, claude, obsidian, conventions]
+---
+
 # naming conventions
 
 consistent naming is what makes the vault navigable by Claude
