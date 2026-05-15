@@ -1,3 +1,9 @@
+---
+title: MCP (Model Context Protocol)
+description: "Open protocol that lets Claude connect directly to external tools and data sources mid-session. The infrastructure layer that turns Claude from a chat interface into an operating system."
+tags: [mcp, model-context-protocol, anthropic, protocol, ai-tools]
+---
+
 # MCP (Model Context Protocol) 🔌
 
 MCP is an open protocol that lets Claude connect directly to
