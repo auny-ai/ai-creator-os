@@ -1,3 +1,9 @@
+---
+title: Content Pillars
+description: How to build a pillar system — the topics you post about consistently, where your knowledge and audience interest overlap. The system here runs @AunySillyMe. Adapt to your own expertise.
+tags: [content-strategy, content-pillars, audience-building]
+---
+
 # content pillars
 
 content pillars are the topics you post about consistently.
