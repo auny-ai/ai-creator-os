@@ -1,3 +1,9 @@
+---
+title: Session Start Protocol
+description: "The file Claude reads first, every session. Tells Claude what mode to operate in, what to load, and in what order. Copy into a Claude Project system prompt and adapt to your vault."
+tags: [session-protocol, claude-project, system-prompt, protocol]
+---
+
 # session start protocol
 
 this is the file Claude reads first, every session. it tells
