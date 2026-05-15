@@ -1,3 +1,9 @@
+---
+title: MCP Setup Guide
+description: "How to connect tools to Claude via MCP. Covers both the custom MCPs built for ai-creator-os (auny-vault, grok, codex, remotion) and the hosted MCP integrations available in Claude Desktop."
+tags: [mcp, setup-guide, claude-desktop, configuration]
+---
+
 # MCP setup guide
 ### connecting your tools to Claude
 
