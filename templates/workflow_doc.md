@@ -1,3 +1,9 @@
+---
+title: Workflow Doc Template
+description: "Template for documenting any workflow you build. The act of documenting is what makes it a product — not just a process you run once and forget. Every documented workflow is simultaneously a tool, content, and a product."
+tags: [template, workflow, documentation, monetization]
+---
+
 # workflow doc template
 
 use this template to document any workflow you build. one file
