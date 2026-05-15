@@ -1,7 +1,9 @@
 ---
+
 title: Formats Reference
 description: Post formats that work — different formats optimize for different signals (reach, engagement, saves, profile clicks). The rule: never post the same format twice in a row.
 tags: [content-strategy, post-formats, x, social-media]
+
 ---
 
 # formats reference
