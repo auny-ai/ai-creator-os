@@ -1,3 +1,9 @@
+---
+title: Suno
+description: "AI music generation tool that produces complete tracks from text prompts. In ai-creator-os, Claude writes the prompts, Suno generates the tracks, Soundboost AI masters, and DistroKid distributes."
+tags: [suno, ai-music, music-generation, prompt-engineering]
+---
+
 # Suno 🎵
 
 Suno is an AI music generation tool. you describe the sound,
