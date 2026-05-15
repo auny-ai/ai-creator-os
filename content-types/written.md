@@ -1,3 +1,9 @@
+---
+title: Written Content (Content Type)
+description: "End-to-end workflow for text content — X posts, threads, newsletters, articles. Claude drafts, Typefully schedules, Beehiiv handles the newsletter. The vault connects them by storing voice, formats, and history."
+tags: [written-content, content-type, x, newsletter, typefully, beehiiv]
+---
+
 # written content ✍️
 
 written content covers everything text-based — X posts, threads,
