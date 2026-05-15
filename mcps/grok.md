@@ -1,3 +1,9 @@
+---
+title: grok MCP
+description: "Custom MCP that gives Claude native access to X search and Grok's web search mid-session. Solves the X-link-reading problem most third-party tools fail at because X blocks scraping."
+tags: [mcp, grok, x-search, custom-mcp, web-search]
+---
+
 # grok MCP 🔍
 
 the grok MCP gives Claude native access to X search and Grok's
