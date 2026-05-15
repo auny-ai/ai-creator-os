@@ -1,3 +1,9 @@
+---
+title: Art (Content Type)
+description: "End-to-end workflow for AI image generation — character posts, abstract art, complex scene compositions. Maps tools (Grok Imagine, GPT Image 2.0, Higgsfield) to use cases."
+tags: [ai-art, ai-image-generation, content-type, grok-imagine, gpt-image]
+---
+
 # art ✦
 
 AI image generation covers character posts, abstract art,
