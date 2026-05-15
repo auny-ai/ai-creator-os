@@ -133,6 +133,12 @@ full stack with links in [TOOLS.md](./TOOLS.md)
 
 ---
 
+## license
+
+[MIT](./LICENSE) — use it, fork it, build on it.
+
+---
+
 ## follow the build
 
 i document everything i build publicly.
