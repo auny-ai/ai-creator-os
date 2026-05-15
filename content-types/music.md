@@ -1,3 +1,9 @@
+---
+title: Music (Content Type)
+description: "End-to-end music workflow from generation to distribution — Claude writes prompts, Suno generates, Soundboost AI masters, DistroKid distributes. Claude Cowork handles registration, hyperfollow pages, and streaming links autonomously."
+tags: [ai-music, content-type, suno, distrokid, music-pipeline]
+---
+
 # music 🎵
 
 the music workflow in this system runs from generation to
