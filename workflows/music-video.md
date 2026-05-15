@@ -1,3 +1,9 @@
+---
+title: Music Video Workflow
+description: "Complete music video from song lyrics in a single Grok Imagine Agent Mode conversation. No video editing required. 30-45 minutes start to finish."
+tags: [music-video, video-workflow, grok-imagine, agent-mode]
+---
+
 # music video workflow 🎬
 ### Grok Imagine Agent Mode → full music video in one conversation
 
