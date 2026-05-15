@@ -1,3 +1,9 @@
+---
+title: Beehiiv
+description: "Newsletter platform with built-in growth, monetization, and MCP support. Connects to Claude so newsletters can be drafted, scheduled, and analyzed mid-session."
+tags: [newsletter, beehiiv, mcp, email, monetization]
+---
+
 # Beehiiv 📬
 
 Beehiiv is a newsletter platform built for growth. it handles
