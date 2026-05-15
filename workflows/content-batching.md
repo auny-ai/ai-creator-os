@@ -1,3 +1,9 @@
+---
+title: Content Batching Workflow
+description: "Produces a full day of content (posts across all pillars and formats) drafted to Typefully in one Claude session. Centers on a research-and-context loop that runs before any writing starts."
+tags: [content-workflow, content-batching, typefully, claude-workflow]
+---
+
 # content batching workflow ✍️
 ### a full day of content in one Claude session
 
