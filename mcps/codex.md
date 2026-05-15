@@ -1,3 +1,9 @@
+---
+title: codex MCP
+description: "Custom MCP that exposes OpenAI's Codex model as a tool inside Claude sessions. Used for code review and second-model perspective on technical builds."
+tags: [mcp, codex, openai, code-review, custom-mcp]
+---
+
 # codex MCP 💻
 
 the codex MCP exposes OpenAI's Codex model as a tool inside
