@@ -1,3 +1,9 @@
+---
+title: Typefully
+description: "Social media scheduling tool built for X (Twitter), with support for LinkedIn, Threads, Bluesky, and Mastodon. MCP-connected so Claude can draft posts directly into the queue without copy-paste."
+tags: [typefully, social-media-scheduling, x, twitter, mcp]
+---
+
 # Typefully 📅
 
 Typefully is a social media scheduling tool built specifically
