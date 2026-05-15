@@ -1,3 +1,9 @@
+---
+title: Claude
+description: "AI assistant by Anthropic. Acts as chief of staff in ai-creator-os — reads the vault before every session, executes tasks mid-session, writes outputs back, and connects to every other tool in the stack via MCP."
+tags: [claude, anthropic, ai-assistant, mcp, chief-of-staff]
+---
+
 # Claude 🤖
 
 Claude is an AI assistant made by Anthropic. In this system it acts
