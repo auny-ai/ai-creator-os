@@ -1,3 +1,9 @@
+---
+title: Monetization Tracker Template
+description: "Single-file template for tracking every revenue angle — active products, affiliate links, services, ideas in the pipeline. Updated every session when something changes."
+tags: [template, monetization, revenue-tracking, business]
+---
+
 # monetization tracker template
 
 use this to track every revenue angle across your work —
