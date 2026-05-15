@@ -1,3 +1,9 @@
+---
+title: Obsidian
+description: "Note-taking app that stores everything as plain markdown files on your device. The memory layer of ai-creator-os — a structured vault every AI tool reads from, so nothing has to be re-explained between sessions."
+tags: [obsidian, knowledge-management, second-brain, markdown, vault]
+---
+
 # Obsidian 📓
 
 Obsidian is a note-taking app that stores everything as plain
