@@ -1,3 +1,9 @@
+---
+title: auny-vault MCP
+description: "Custom MCP that connects Claude directly to an Obsidian vault. Claude reads, writes, searches, and updates vault files mid-session. The core infrastructure that makes ai-creator-os work."
+tags: [mcp, obsidian, vault, custom-mcp, ai-creator-os]
+---
+
 # auny-vault MCP 🗂️
 
 the auny-vault MCP connects Claude directly to your Obsidian
