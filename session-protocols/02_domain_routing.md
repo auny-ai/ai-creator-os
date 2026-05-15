@@ -1,3 +1,9 @@
+---
+title: Domain Routing Table
+description: "Maps tasks to the files that matter for them, so Claude loads only what's relevant at session start instead of everything in the vault. Adapt the file paths to your own vault structure."
+tags: [session-protocol, routing, claude, vault]
+---
+
 # domain routing table
 
 when Claude loads files at session start, it should load only
