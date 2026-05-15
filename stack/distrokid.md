@@ -1,3 +1,9 @@
+---
+title: DistroKid
+description: "Music distribution service. Uploads tracks to every major streaming platform (Spotify, Apple Music, YouTube Music, Amazon, Tidal) and hosts hyperfollow pages for pre-saves and streaming links."
+tags: [music-distribution, distrokid, spotify, streaming, hyperfollow]
+---
+
 # DistroKid 🎧
 
 DistroKid distributes music to every major streaming platform —
