@@ -1,3 +1,9 @@
+---
+title: Music Release Workflow
+description: "Full pipeline for releasing an AI-generated track to every streaming platform — Suno → Soundboost AI → DistroKid → live on Spotify. Prompt to release in under an hour."
+tags: [music-workflow, music-release, suno, distrokid, ai-music-pipeline]
+---
+
 # music release workflow 🎵
 ### Suno → Soundboost AI → DistroKid → everywhere
 
