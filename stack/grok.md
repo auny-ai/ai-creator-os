@@ -1,3 +1,9 @@
+---
+title: Grok
+description: "xAI's AI model with native real-time access to X. Used for two roles in this system — research layer (what's trending on X right now) and image generation (character art and abstract scenes via Grok Imagine)."
+tags: [grok, xai, x-search, ai-image, grok-imagine]
+---
+
 # Grok 🔍
 
 Grok is xAI's AI model with native access to X (Twitter) data
