@@ -1,3 +1,9 @@
+---
+title: remotion MCP
+description: "Custom MCP that brings programmatic video generation into Claude sessions. Wraps Remotion (a React video framework) so Claude can generate video content directly without leaving the conversation."
+tags: [mcp, remotion, video-generation, react, custom-mcp]
+---
+
 # remotion MCP 🎬
 
 the remotion MCP brings programmatic video generation into
