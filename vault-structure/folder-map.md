@@ -1,3 +1,9 @@
+---
+title: Vault Folder Map
+description: "The folder structure ai-creator-os runs on. Organized so Claude can navigate precisely — emoji prefixes make folders distinct, naming is consistent. Start with the minimum viable vault and expand as your system grows."
+tags: [vault-structure, obsidian, folder-organization, naming]
+---
+
 # vault folder map
 
 this is the folder structure that ai-creator-os runs on. it's
