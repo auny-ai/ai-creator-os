@@ -1,3 +1,9 @@
+---
+title: Video (Content Type)
+description: "Three video workflows — music videos via Grok Imagine Agent Mode, marketing/product videos via Higgsfield, and newsletter video overviews via NotebookLM. Each starts with Claude and ends with a file ready to post."
+tags: [ai-video, content-type, music-video, grok-imagine, higgsfield, notebooklm]
+---
+
 # video 🎬
 
 video content in this system covers three distinct workflows:
