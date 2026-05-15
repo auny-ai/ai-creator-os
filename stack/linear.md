@@ -1,3 +1,9 @@
+---
+title: Linear
+description: "Project and issue tracking tool. Functions as the execution layer — every task, workflow, and idea lives in Linear as an issue. MCP-connected so Claude creates, updates, and closes issues mid-session."
+tags: [linear, project-management, issue-tracking, mcp]
+---
+
 # Linear 📋
 
 Linear is a project and issue tracking tool. in this system
