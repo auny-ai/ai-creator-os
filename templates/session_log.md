@@ -1,3 +1,9 @@
+---
+title: Session Log Template
+description: "Single rolling log file every Claude session writes to. Makes context portable — changes made in one conversation are visible in the next because Claude reads this file first. One file, newest entries at top."
+tags: [template, session-log, context, claude]
+---
+
 # session log template
 
 the session log is the single file every Claude session writes
