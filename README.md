@@ -1,6 +1,8 @@
 # ai-creator-os 🕷️
 ### an AI operating system built on Obsidian + Claude + MCP
 
+**v2 — september 2026.** [what changed since v1](./CHANGELOG.md)
+
 by [@AunySillyMe](https://x.com/AunySillyMe) · [aunysillyme.com](https://aunysillyme.com)
 
 ---
@@ -23,6 +25,14 @@ i run my entire creator business through this system:
 - monetization tracking and product development
 
 this repo documents how i built it and how you can build your own.
+
+**what v2 changed.** v1 was one Claude window reading a local vault. since
+then the vault moved behind a server so it reaches every device and every
+scheduled job, the custom MCP count went from four to around fifteen, a build
+surface got added (Claude Code, which is where all of it was written), and
+tasks now route across several models instead of one. two things v1 told you
+were wrong within weeks, and both are corrected in place rather than deleted,
+because the correction is the useful part.
 
 ---
 
@@ -69,10 +79,11 @@ ai-creator-os/
 │   └── monetization_tracker.md ← track every revenue angle
 │
 ├── /mcps
+│   ├── README.md                ← every server i run, and what changed
 │   ├── auny-vault.md            ← vault read/write MCP
 │   ├── grok.md                  ← X search + read X links + web research
-│   ├── codex.md                 ← code review MCP
-│   └── remotion.md              ← programmatic video generation
+│   ├── codex.md                 ← correction: Codex is a CLI lane, not an MCP
+│   └── remotion.md              ← retired, and what replaced it
 │
 ├── /content-types
 │   ├── written.md               ← posts, threads, newsletters
@@ -84,6 +95,12 @@ ai-creator-os/
 │   ├── music-release.md         ← Suno → master → distribute end to end
 │   ├── music-video.md           ← Grok Imagine Agent → full music video
 │   └── content-batching.md      ← full day of content in one session
+│
+├── /stack
+│   ├── claude-code.md           ← the build surface (new in v2)
+│   ├── cloudflare.md            ← where the servers live (new in v2)
+│   ├── model-routing.md         ← which model gets which job (new in v2)
+│   └── ...                      ← claude, obsidian, mcp, suno, and the rest
 │
 ├── /mcp-setup
 │   └── setup_guide.md           ← connect all MCPs to Claude Desktop
@@ -116,6 +133,12 @@ start with [session-protocols/01_session_start.md](./session-protocols/01_sessio
 
 **step 6 — use it. update it.**
 the system only works if you actually use it. update your vault after every session. it gets smarter as you go.
+
+**step 7 — when you outgrow one window**
+once the vault is carrying real weight, the next two moves are
+[Claude Code](./stack/claude-code.md) to build your own tools and
+[hosting them](./stack/cloudflare.md) so they work everywhere. neither is
+required to start.
 
 ---
 

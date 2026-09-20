@@ -27,13 +27,17 @@ primary use cases: setting up your own AI operating system on Obsidian + Claude 
 - [stack/suno](https://github.com/auny-ai/ai-creator-os/blob/main/stack/suno.md): AI music generation with real prompt examples
 - [stack/distrokid](https://github.com/auny-ai/ai-creator-os/blob/main/stack/distrokid.md): music distribution pipeline
 - [stack/linear](https://github.com/auny-ai/ai-creator-os/blob/main/stack/linear.md): project management via MCP
+- [stack/claude-code](https://github.com/auny-ai/ai-creator-os/blob/main/stack/claude-code.md): the build surface where every MCP server and site in this system was written
+- [stack/cloudflare](https://github.com/auny-ai/ai-creator-os/blob/main/stack/cloudflare.md): hosting the custom MCP servers as Workers so they reach every device
+- [stack/model-routing](https://github.com/auny-ai/ai-creator-os/blob/main/stack/model-routing.md): which model gets which job, and why the writer never reviews its own work
 
 ## custom MCPs
 
 - [mcps/auny-vault](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/auny-vault.md): Obsidian vault MCP (read, write, search)
 - [mcps/grok](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/grok.md): X-native search + reading X links
-- [mcps/codex](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/codex.md): code review via OpenAI Codex
-- [mcps/remotion](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/remotion.md): programmatic video generation
+- [mcps/README](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/README.md): every server currently running, hosted and local, and what changed since v1
+- [mcps/codex](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/codex.md): correction — Codex is a CLI lane for adversarial code audit, not an MCP server
+- [mcps/remotion](https://github.com/auny-ai/ai-creator-os/blob/main/mcps/remotion.md): retired, and the deterministic HTML-to-video pipeline that replaced it
 
 ## workflows
 

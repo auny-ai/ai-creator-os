@@ -1,58 +1,53 @@
 ---
-title: remotion MCP
-description: "Custom MCP that brings programmatic video generation into Claude sessions. Wraps Remotion (a React video framework) so Claude can generate video content directly without leaving the conversation."
-tags: [mcp, remotion, video-generation, react, custom-mcp]
+title: remotion MCP (retired)
+description: "Retired from the stack. Wrapped Remotion for programmatic video generation; replaced by a deterministic HTML-to-video pipeline that composites real assets instead of generating scenes."
+tags: [mcp, remotion, video-generation, retired, deterministic-render]
 ---
 
-# remotion MCP 🎬
+# remotion
 
-the remotion MCP brings programmatic video generation into
-Claude sessions. Remotion is a framework for creating videos
-using React — this MCP exposes it as a tool Claude can call
-directly to generate video content without leaving the conversation.
-
-**repo:** [aunysillyme/remotion-mcp](https://github.com/aunysillyme/remotion-mcp)
+> **status: retired.** this MCP is no longer part of the stack. the repo it
+> pointed at is archived. kept here because "what replaced it and why" is more
+> useful than a deleted file.
 
 ---
 
-## tools
+## what it was
 
-| tool | what it does |
-|------|-------------|
-| `list_templates` | lists available Remotion video templates |
-| `new_slideshow` | generates a new slideshow video from content |
-| `render_video` | renders a video from a Remotion template |
+an MCP server that drove [Remotion](https://remotion.dev) so Claude could
+generate video programmatically: React components rendered to frames, frames
+rendered to MP4.
 
----
+## why it is gone
 
-## setup
+two reasons, in order of how much they mattered.
 
-```bash
-git clone https://github.com/aunysillyme/remotion-mcp.git
-cd remotion-mcp
-npm install
-```
+**1. the render step was heavy for what it produced.** a React render pipeline
+is a lot of machinery to stand up for a 15-second brand reel.
 
-add to Claude Desktop config:
+**2. it could invent things.** a generative video step will happily produce a
+version of your product that does not exist. for anything with a real asset in
+it (a real screenshot, a real logo, real numbers on a real chart), that is
+not a small problem.
 
-```json
-"remotion": {
-  "command": "node",
-  "args": ["/path/to/remotion-mcp/index.js"]
-}
-```
+## what replaced it
 
-full setup instructions in the
-[remotion-mcp repo](https://github.com/aunysillyme/remotion-mcp).
+an HTML-to-video pipeline: scene HTML, rendered in headless Chrome, with WebGL
+shader transitions between scenes, stitched with ffmpeg.
 
----
+| | remotion MCP | what runs now |
+|---|---|---|
+| input | React components | plain HTML scenes |
+| cost | render time | $0 |
+| output | varies per run | deterministic, same input gives same video |
+| invention | possible | none, it composites the assets you give it |
 
-## how it's used in this system
+deterministic is the whole point. the video shows the real asset, or it does
+not render.
 
-used for programmatic video content — primarily slideshow-style
-videos where the structure is data-driven rather than manually
-composed. Claude can generate the content, call the MCP to render
-it, and produce a video file ready to post.
+## if you want programmatic video anyway
 
-pairs well with the written content workflow — a thread or
-educational piece can become a video slideshow in the same session.
+Remotion is genuinely good, and none of the above says otherwise. it was the
+wrong fit for **my** use, which is motion graphics over real assets rather
+than generated scenes. if you are producing something React-shaped and
+data-driven, go look at it properly.
