@@ -1,3 +1,9 @@
+---
+title: Tools
+description: "Auny's full AI and creator tool stack as of September 2026: the core Claude/Obsidian/MCP/Cloudflare system, the models she routes between, content and social tools, image/design/video tools, music tools, project and product tools, the automation layer that runs without her, and the custom MCP servers she built, with affiliate disclosures."
+tags: [ai-tools, mcp, claude, model-routing, cloudflare-workers]
+---
+
 # tools 🛠️
 ### my full stack: what i use, what it does, what you get
 

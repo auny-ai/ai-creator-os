@@ -1,3 +1,9 @@
+---
+title: Custom MCPs
+description: "Catalog of every custom MCP server built for the ai-creator-os stack: which run hosted on Cloudflare Workers versus locally, what each one does, the one-deployment-per-server rule, when to build a custom MCP versus connect a hosted one, and how each server doubles as a sellable product."
+tags: [mcp, custom-mcp, cloudflare-workers, claude-code, model-context-protocol]
+---
+
 # custom MCPs 🔌
 
 these are MCP servers built specifically for this system.
